@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://ari.se.net/config/*
+Disallow: blipkin6.github.io*
 
-Sitemap: https://ari.se.net/sitemap.xml
+Sitemap: blipkin6.github.io
