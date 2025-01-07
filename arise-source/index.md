@@ -14,27 +14,11 @@ rss_hide:: "true"
 
 # Retro doesn't have to be regressive
 
-Arise is a static site generator written in Bash, designed to be a fusion of ultra-stable 90s technology and modern DevOps paradigms. Arise is designed around use cases like individual blogs and personal websites.
 
-Let me tell you why Arise exists. You ever seen one of those nineties zombie websites that hasn't been updated in like thirty years but is still somehow running today? [Stuff like this](http://home.mcom.com/home/welcome.html). Can you imagine a modern website lasting that long without becoming a completely broken mess?
 
-We live in a world where the mindset of "move fast, break things" has trained web developers to keep stacking more and more overdesigned trash onto their websites, one node framework or polyfill at a time. Over time, we've collectively lost the plot and forgotten that websites are ultimately a tool to share information with other people.
 
-Arise was built to show that you can take simple technology like Bash that is so set in stone as to be basically indestructible and use it to create modern web tools.
-
-## Simplify deployment
-
-90s websites may have been robust in their simplicity, but no one likes setting up a janky webserver on a computer in their closet. Arise is a modern cloud-native application that supports easy deployment to your cloud static site host of choice.
 
 Simply fork [Arise on Github](https://github.com/spectrasecure/arise), edit your site, and point your cloud vendor to your repository. The included CI workflow does all the hard work of building and deploying your site straight from the cloud.
-
-## Timeless tech built for the modern web
-
-Arise websites may be spartan on the surface, but they are designed to take advantage of modern web conventions for rich content presence and SEO.
-
-- Rich metadata for cross-site embeds with support for [OpenGraph](https://ogp.me/) and [TwitterCard](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-- Dynamic sitemap generation for SEO
-- Dynamic RSS feed generation
 
 ## Practical pages for real-world use
 
